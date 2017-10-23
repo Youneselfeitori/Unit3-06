@@ -1,0 +1,47 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{41, 43}, {350, 319}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "frame" : "{{462, 334}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "walkingman_image",
+          "uuid" : "C9C9BD82-3E7A-43E8-B940-4241BA19B521"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{41, 370}, {114, 45}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "walking_man_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "Start",
+          "uuid" : "1D3000AE-0E2C-442A-B461-7E66FEE24AF0",
+          "class" : "Button",
+          "name" : "start_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
